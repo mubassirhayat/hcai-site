@@ -1,2 +1,1 @@
-https://codeforpakistan.github.io/hcai-site/
-
+https://hcai.app
